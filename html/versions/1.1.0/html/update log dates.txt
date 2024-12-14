@@ -1,0 +1,5 @@
+website update 1.1.0{
+    made headers bigger(h1 instead of h2) on all pages
+    added elevator pitch page(not correct video yet)(version 1.0.0)
+    capital letters added to the beginning of sentences
+}[23-9-2024 14:45]

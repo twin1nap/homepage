@@ -1,0 +1,4 @@
+website update 1.0.0{
+    all pages 1.0.0
+    made home page, about me page and project page and made most of the content in it
+}[20-9-2024]
